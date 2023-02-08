@@ -1,0 +1,24 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dumenko111/express.js.git"
+  },
+  "keywords": [],
+  "author": "Andriy Dumenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dumenko111/express.js/issues"
+  },
+  "homepage": "https://github.com/dumenko111/express.js#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^6.0.7"
+  }
+}
